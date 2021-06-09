@@ -1,0 +1,65 @@
+body {
+  background-color: #14131A;
+  color: white;
+  font-family: Roboto;
+}
+
+.container {
+  max-width: 1140px;
+  margin: auto;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  padding-top: 40px;
+}
+
+.logo-link {
+  display: inline-block;
+}
+
+.logo-image {}
+
+.nav {}
+
+.nav-menu {
+  display: flex;
+  justify-content: ;
+}
+
+.nav-menu_item:first-child {
+  margin-left: 52px;
+}
+
+.nav-menu_item {
+  margin-right: 30px;
+}
+
+.nav-menu_link {
+  text-decoration: none;
+  color: white;
+  opacity: 0.5;
+}
+
+.film-text {}
+
+.film-date {
+  display: block;
+  padding-top: 80px;
+  font-size: 24px;
+  line-height: 28px;
+  opacity: 0.8;
+}
+
+.film-logo {
+  margin-top: 38px;
+}
+
+.film-description {
+  font-size: 16px;
+  line-height: 22px;
+  opacity: 0.8;
+  max-width: 423px;
+  margin-top: 41px;
+}
